@@ -1,0 +1,1 @@
+const persona = require('./persona')
